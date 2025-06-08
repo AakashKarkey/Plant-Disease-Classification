@@ -1,0 +1,8 @@
+tensorflow==2.13.0
+numpy==1.24.3
+pillow==10.2.0
+matplotlib==3.8.4
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.9
+typing-extensions==4.5.0
